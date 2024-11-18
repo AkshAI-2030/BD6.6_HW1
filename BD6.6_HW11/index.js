@@ -7,7 +7,7 @@ const {
   getDepartments,
   getEmployeeById,
   getEmployees,
-} = require('../BD6.6_HW1/controllers/index');
+} = require('../BD6.6_HW11/controllers/index');
 
 app.use(express.json());
 app.use(cors());
